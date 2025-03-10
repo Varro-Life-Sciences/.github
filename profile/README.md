@@ -1,3 +1,5 @@
+<img src="/varro_white_crop.png" width="300" />
+
 ### **Pioneering Disease Prevention Technology**
 
 Our purpose is to disrupt disease transmission. We develop innovative products and technologies that make a global impact across economic and cultural borders. We are ambitious and dedicated in our pursuit to leverage technology that saves lives, ensures safe environments, and prevents future pandemics.
