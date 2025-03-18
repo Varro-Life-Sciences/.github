@@ -4,6 +4,8 @@
 
 Our purpose is to disrupt disease transmission. We develop innovative products and technologies that make a global impact across economic and cultural borders. We are ambitious and dedicated in our pursuit to leverage technology that saves lives, ensures safe environments, and prevents future pandemics.
 
+## **To get started please, read and sign our [patent pledge](https://docs.google.com/forms/d/e/1FAIpQLSdmQE0pj8W1iSjWoWyVnj0cHxGuY-nCYL62yg1rz4jE8D2y7w/viewform?embedded=true) to be added to the technical repos.**
+
 ## **Why partner with Varro?**
 
 The probability of another pandemic like COVID-19 is estimated to be as high as 76%\* in the coming decades. The increasing likelihood of future pandemics makes early detection and prevention crucial. Pathogens don’t stop at borders. This work won’t either. We partner with academics, public health organizations, and technologists around the globe to provide superior pathogen detection and to advance disease prevention. This technology is designed to be at the forefront, providing rapid, accessible, and reliable pathogen detection capabilities. Our work has three product offerings: 
