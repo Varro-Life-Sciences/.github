@@ -4,7 +4,7 @@
 
 Our purpose is to disrupt disease transmission. We develop innovative products and technologies that make a global impact across economic and cultural borders. We are ambitious and dedicated in our pursuit to leverage technology that saves lives, ensures safe environments, and prevents future pandemics.
 
-## **To get started please, read and sign our [patent pledge](https://docs.google.com/forms/d/e/1FAIpQLSdmQE0pj8W1iSjWoWyVnj0cHxGuY-nCYL62yg1rz4jE8D2y7w/viewform?embedded=true) to be added to the technical repos.**
+**To get started please, read and sign our [patent pledge](https://docs.google.com/forms/d/e/1FAIpQLSdmQE0pj8W1iSjWoWyVnj0cHxGuY-nCYL62yg1rz4jE8D2y7w/viewform?embedded=true) to be added to the technical repos.**
 
 ## **Why partner with Varro?**
 
